@@ -310,6 +310,7 @@ GEM
       xml-simple
     paypal-sdk-merchant (1.116.0)
       paypal-sdk-core (~> 0.3.0)
+    pg (0.18.1)
     pickle (0.4.11)
       cucumber (>= 0.8)
       rake
@@ -544,6 +545,7 @@ DEPENDENCIES
   parallel_tests
   paypal-sdk-merchant (~> 1.116.0)
   paypal-sdk-permissions!
+  pg
   pickle
   possibly (~> 0.2.0)
   postmark-rails

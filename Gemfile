@@ -26,7 +26,7 @@ gem 'jquery-rails', '2.1.4'
 #gem 'thin'
 gem 'unicorn', "~>4.6.3"
 gem "rack-timeout"
-
+gem "pg"
 gem "mysql2"
 gem 'haml'
 gem 'sass', "  ~> 3.2.9"
